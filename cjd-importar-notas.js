@@ -7,8 +7,8 @@
 // @match        https://eschooling.colegiojuliodinis.pt/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/TCosta0802/cjd_scripts/main/cjd-importar-notas.user.js
-// @downloadURL  https://raw.githubusercontent.com/TCosta0802/cjd_scripts/main/cjd-importar-notas.user.js
+// @updateURL    https://raw.githubusercontent.com/TCosta0802/cjd_scripts/main/cjd-importar-notas.js
+// @downloadURL  https://raw.githubusercontent.com/TCosta0802/cjd_scripts/main/cjd-importar-notas.js
 // ==/UserScript==
 
 (function () {
